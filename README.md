@@ -9,3 +9,4 @@ Client Enrollment | Admins can enroll clients into multiple health programs.
 Search Clients | Admins can search and view client profiles.
 Admin Settings | Admins can configure personal settings (future expansion).
 Logout | Both Clients and Admins can securely log out with SweetAlert2 confirmation.
+![Screenshot (87)](https://github.com/user-attachments/assets/d84fe172-a7d5-437b-908f-5cf0f9ed4bb5)
